@@ -1,0 +1,35 @@
+// !$*UTF8*$!
+{
+ archiveVersion = 1;
+ classes = {};
+ objectVersion = 56;
+ objects = {
+  000000000000000000000001 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+  000000000000000000000002 = { isa = PBXBuildFile; fileRef = 000000000000000000000001; };
+  000000000000000000000003 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewView.swift; sourceTree = "<group>"; };
+  000000000000000000000004 = { isa = PBXBuildFile; fileRef = 000000000000000000000003; };
+  000000000000000000000005 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyStore.swift; sourceTree = "<group>"; };
+  000000000000000000000006 = { isa = PBXBuildFile; fileRef = 000000000000000000000005; };
+  000000000000000000000007 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TUSKingApp.swift; sourceTree = "<group>"; };
+  000000000000000000000008 = { isa = PBXBuildFile; fileRef = 000000000000000000000007; };
+  000000000000000000000009 = { isa = PBXFileReference; lastKnownFileType = text.json; path = SampleCards.json; sourceTree = "<group>"; };
+  00000000000000000000000A = { isa = PBXBuildFile; fileRef = 000000000000000000000009; };
+  00000000000000000000000B = { isa = PBXGroup; children = (000000000000000000000001,000000000000000000000003,000000000000000000000005,000000000000000000000007,); path = Sources; sourceTree = "<group>"; };
+  00000000000000000000000C = { isa = PBXGroup; children = (000000000000000000000009,); path = Resources; sourceTree = "<group>"; };
+  00000000000000000000000D = { isa = PBXFileReference; explicitFileType = wrapper.application; path = TUSKing.app; sourceTree = BUILT_PRODUCTS_DIR; };
+  00000000000000000000000E = { isa = PBXGroup; children = (00000000000000000000000D,); name = Products; sourceTree = "<group>"; };
+  00000000000000000000000F = { isa = PBXGroup; children = (00000000000000000000000B,00000000000000000000000C,00000000000000000000000E,); sourceTree = "<group>"; };
+  000000000000000000000010 = { isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (000000000000000000000002,000000000000000000000004,000000000000000000000006,000000000000000000000008,); runOnlyForDeploymentPostprocessing = 0; };
+  000000000000000000000011 = { isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+  000000000000000000000012 = { isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (00000000000000000000000A,); runOnlyForDeploymentPostprocessing = 0; };
+  000000000000000000000013 = { isa = XCBuildConfiguration; name = Debug; buildSettings = { GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "TUS King"; PRODUCT_BUNDLE_IDENTIFIER = org.tusking.ios.prototype; PRODUCT_NAME = TUSKing; TARGETED_DEVICE_FAMILY = "1,2"; SWIFT_VERSION = 5.0; MARKETING_VERSION = 0.1.0; CURRENT_PROJECT_VERSION = 1; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; }; };
+  000000000000000000000014 = { isa = XCBuildConfiguration; name = Release; buildSettings = { GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "TUS King"; PRODUCT_BUNDLE_IDENTIFIER = org.tusking.ios.prototype; PRODUCT_NAME = TUSKing; TARGETED_DEVICE_FAMILY = "1,2"; SWIFT_VERSION = 5.0; MARKETING_VERSION = 0.1.0; CURRENT_PROJECT_VERSION = 1;  }; };
+  000000000000000000000015 = { isa = XCConfigurationList; buildConfigurations = (000000000000000000000013,000000000000000000000014,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+  000000000000000000000016 = { isa = XCBuildConfiguration; name = Debug; buildSettings = { IPHONEOS_DEPLOYMENT_TARGET = 16.0; SDKROOT = iphoneos; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator"; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; }; };
+  000000000000000000000017 = { isa = XCBuildConfiguration; name = Release; buildSettings = { IPHONEOS_DEPLOYMENT_TARGET = 16.0; SDKROOT = iphoneos; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";  }; };
+  000000000000000000000018 = { isa = XCConfigurationList; buildConfigurations = (000000000000000000000016,000000000000000000000017,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+  000000000000000000000019 = { isa = PBXNativeTarget; buildConfigurationList = 000000000000000000000015; buildPhases = (000000000000000000000010,000000000000000000000011,000000000000000000000012,); buildRules = (); dependencies = (); name = TUSKing; productName = TUSKing; productReference = 00000000000000000000000D; productType = "com.apple.product-type.application"; };
+  00000000000000000000001A = { isa = PBXProject; buildConfigurationList = 000000000000000000000018; compatibilityVersion = "Xcode 14.0"; developmentRegion = tr; knownRegions = (tr,en,Base,); mainGroup = 00000000000000000000000F; productRefGroup = 00000000000000000000000E; projectDirPath = ""; projectRoot = ""; targets = (000000000000000000000019,); };
+ };
+ rootObject = 00000000000000000000001A;
+}

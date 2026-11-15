@@ -1,0 +1,11 @@
+name: iOS build
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  simulator:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile the simulator target
+        run: xcodebuild -project TUSKing.xcodeproj -target TUSKing -configuration Debug -sdk iphonesimulator CODE_SIGNING_ALLOWED=NO build

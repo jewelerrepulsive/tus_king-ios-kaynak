@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1793887284942",
+    "subject": "01 Anatomi",
+    "topic": "02. Alt Ekstremite ve Pelvis Kemikleri",
+    "question": "Obturator fıtık olgularında uyluk adduktör refleksinin kaybolmasına rağmen patella refleksinin korunmuş olması [Fizik Muayene Bulgusu] şeklinde adlandırılır.",
+    "answer": "Obturator fıtık olgularında uyluk adduktör refleksinin kaybolmasına rağmen patella refleksinin korunmuş olması Hannington-Kiff belirtisi şeklinde adlandırılır."
+  },
+  {
+    "id": "1793887574895",
+    "subject": "01 Anatomi",
+    "topic": "04. Kafa Tabanı Delikleri, Kanallar ve Fossalar",
+    "question": "Burun tavanında yer alan ve kırıklarında concha nasalis superior komşuluğundan beyin omurilik sıvısı (BOS) sızıntısına yol açan yapı [Kemik Bölümü]'dır.",
+    "answer": "Burun tavanında yer alan ve kırıklarında concha nasalis superior komşuluğundan beyin omurilik sıvısı (BOS) sızıntısına yol açan yapı lamina cribrosa'dır."
+  },
+  {
+    "id": "1793887574900",
+    "subject": "01 Anatomi",
+    "topic": "02. Aorta, Baş-Boyun, Toraks ve Üst Ekstremite Arterleri",
+    "question": "Özofagusun servikal parçasının beslenmesinden sorumlu olan temel damar [Arter]'dur.",
+    "answer": "Özofagusun servikal parçasının beslenmesinden sorumlu olan temel damar arteria thyroidea inferior'dur."
+  },
+  {
+    "id": "1793886787382",
+    "subject": "02 Fizyoloji Histo Embriyo",
+    "topic": "02. İskelet Kası Fizyolojisi ve Kasılma Mekanizması",
+    "question": "Myasthenia gravis hastalarının klinik sunumunda en sık karşılaşılan ilk semptom [Klinik Belirti] veya diplopi gibi oküler bulgulardır.",
+    "answer": "Myasthenia gravis hastalarının klinik sunumunda en sık karşılaşılan ilk semptom pitozis veya diplopi gibi oküler bulgulardır."
+  },
+  {
+    "id": "1793887574801",
+    "subject": "02 Fizyoloji Histo Embriyo",
+    "topic": "02. Hücre Organelleri, Hücre İskeleti ve Hücre Döngüsü",
+    "question": "Hücrenin kendi sitoplazmik bileşenlerini ve yaşlanmış organellerini lizozomal sistem aracılığıyla kontrollü bir şekilde yıkıma uğratması sürecine [Fizyolojik mekanizma / Yapı] denir.",
+    "answer": "Hücrenin kendi sitoplazmik bileşenlerini ve yaşlanmış organellerini lizozomal sistem aracılığıyla kontrollü bir şekilde yıkıma uğratması sürecine otofaji denir."
+  },
+  {
+    "id": "1793887574807",
+    "subject": "02 Fizyoloji Histo Embriyo",
+    "topic": "02. Hücre Organelleri, Hücre İskeleti ve Hücre Döngüsü",
+    "question": "Düz kas hücrelerinde ince (aktin) ve intermediyer (desmin/vimentin) filamanları sarkolemmaya sabitleyen protein [Protein]'dir.",
+    "answer": "Düz kas hücrelerinde ince (aktin) ve intermediyer (desmin/vimentin) filamanları sarkolemmaya sabitleyen protein alfa-aktinin'dir."
+  },
+  {
+    "id": "1793887284989",
+    "subject": "03 Biyokimya",
+    "topic": "01. Yağ Asidi Sentezi, Beta-Oksidasyon ve Keton Cisimleri",
+    "question": "Diyabetik veya açlık durumunda biriken keton cisimlerine bağlı olarak tabloya giren asidoz tipi [Asidoz Tipi] metabolik asidozdur.",
+    "answer": "Diyabetik veya açlık durumunda biriken keton cisimlerine bağlı olarak tabloya giren asidoz tipi artmış anyon açıklı metabolik asidozdur."
+  },
+  {
+    "id": "1793887954797",
+    "subject": "03 Biyokimya",
+    "topic": "01. Karbonhidrat Yapısı, Glikoliz ve Piruvat Metabolizması",
+    "question": "Galaktokinaz eksikliği olan bireylerde, disakkarit yapısında bulunan [Karbonhidrat] alımı, galaktoz birikimine ve katarakt gelişimine neden olur.",
+    "answer": "Galaktokinaz eksikliği olan bireylerde, disakkarit yapısında bulunan Laktoz alımı, galaktoz birikimine ve katarakt gelişimine neden olur."
+  },
+  {
+    "id": "1793887954802",
+    "subject": "03 Biyokimya",
+    "topic": "02. Sitrik Asit Döngüsü (TCA / Krebs) ve Glukoneogenez",
+    "question": "Sitrik asit döngüsünde alfa-ketoglutarat dehidrogenaz kompleksi tarafından katalize edilen reaksiyon sonucunda oluşan yüksek enerjili tiyoester bileşiği [Metabolit]tir.",
+    "answer": "Sitrik asit döngüsünde alfa-ketoglutarat dehidrogenaz kompleksi tarafından katalize edilen reaksiyon sonucunda oluşan yüksek enerjili tiyoester bileşiği Süksinil-KoAtir."
+  },
+  {
+    "id": "1793886787191",
+    "subject": "04 Mikrobiyoloji",
+    "topic": "03. Hepatit Virüsleri, HIV (Retrovirüsler) ve Prionlar",
+    "question": "HIV enfeksiyonunun tedavi yanıtını ve prognozunu izlemede kullanılan en duyarlı iki parametre CD4+ T-lenfosit sayısı ve [Laboratuvar parametresi]dir.",
+    "answer": "HIV enfeksiyonunun tedavi yanıtını ve prognozunu izlemede kullanılan en duyarlı iki parametre CD4+ T-lenfosit sayısı ve plazma HIV-RNA düzeyidir."
+  },
+  {
+    "id": "1793886787192",
+    "subject": "04 Mikrobiyoloji",
+    "topic": "03. Hepatit Virüsleri, HIV (Retrovirüsler) ve Prionlar",
+    "question": "HIV enfeksiyonunun tedavi yanıtını ve prognozunu izlemede kullanılan en duyarlı iki parametre [Laboratuvar parametresi] ve plazma HIV-RNA düzeyidir.",
+    "answer": "HIV enfeksiyonunun tedavi yanıtını ve prognozunu izlemede kullanılan en duyarlı iki parametre CD4+ T-lenfosit sayısı ve plazma HIV-RNA düzeyidir."
+  },
+  {
+    "id": "1793886787493",
+    "subject": "04 Mikrobiyoloji",
+    "topic": "02. Dimorfik Sistemik Mantarlar ve Fırsatçı Mikozlar",
+    "question": "Hepatoselüler karsinom gelişiminde en güçlü kimyasal karsinojenlerden biri olan ve Aspergillus mantarlarından köken alan madde [Klinik tanı / Belirteç / Tedavi]'dir.",
+    "answer": "Hepatoselüler karsinom gelişiminde en güçlü kimyasal karsinojenlerden biri olan ve Aspergillus mantarlarından köken alan madde aflatoksin'dir."
+  },
+  {
+    "id": "1793886787361",
+    "subject": "05 Patoloji",
+    "topic": "01. Glomerüler Hastalıklar (Nefrotik ve Nefritik Sendromlar)",
+    "question": "Solid organ maligniteleri (özellikle meme ve akciğer) seyrinde gelişen nefrotik sendrom tablolarında en olası patoloji [Nefropati]'dir.",
+    "answer": "Solid organ maligniteleri (özellikle meme ve akciğer) seyrinde gelişen nefrotik sendrom tablolarında en olası patoloji Membranöz glomerülonefrit'dir."
+  },
+  {
+    "id": "1793886787415",
+    "subject": "05 Patoloji",
+    "topic": "01. Glomerüler Hastalıklar (Nefrotik ve Nefritik Sendromlar)",
+    "question": "Membranöz glomerülonefritte gümüşleme boyası ile ışık mikroskobunda bazal membranda görülen karakteristik yapı [Patolojik Görünüm] görünümüdür.",
+    "answer": "Membranöz glomerülonefritte gümüşleme boyası ile ışık mikroskobunda bazal membranda görülen karakteristik yapı spike ve dome görünümüdür."
+  },
+  {
+    "id": "1793886787426",
+    "subject": "05 Patoloji",
+    "topic": "01. Damar Patolojisi, Anevrizmalar ve Vaskülitler",
+    "question": "Ürtikeryal vaskülit şüphesi olan bir hastada kesin tanı için lezyondan alınan örnekte [Patolojik Tanı] bulguları aranmalıdır.",
+    "answer": "Ürtikeryal vaskülit şüphesi olan bir hastada kesin tanı için lezyondan alınan örnekte lökositoklastik vaskülit bulguları aranmalıdır."
+  },
+  {
+    "id": "1793887284771",
+    "subject": "06 Farmakoloji",
+    "topic": "01. Kolinerjik Agonistler, Antikolinesterazlar ve Antimuskarinikler",
+    "question": "Antikolinerjik zehirlenmelerde klinik tabloyu düzeltmek için kullanılan spesifik antidot [Pediatrik sendrom / Bulgular] iken, atropin bu zehirlenmenin tedavisinde değil aksine kendisi bir antikolinerjiktir.",
+    "answer": "Antikolinerjik zehirlenmelerde klinik tabloyu düzeltmek için kullanılan spesifik antidot fizostigmin iken, atropin bu zehirlenmenin tedavisinde değil aksine kendisi bir antikolinerjiktir."
+  },
+  {
+    "id": "1793887284869",
+    "subject": "06 Farmakoloji",
+    "topic": "01. Hücre Duvarı Sentez İnhibitörleri (Beta-Laktamlar, Glikopeptidler ve Diğerleri)",
+    "question": "Uzun QT sendromunda ani ölüm riskini azaltmak için kullanılan temel ilaç grubu [İlaç grubu] olarak belirlenmiştir.",
+    "answer": "Uzun QT sendromunda ani ölüm riskini azaltmak için kullanılan temel ilaç grubu Beta blokörler olarak belirlenmiştir."
+  },
+  {
+    "id": "1793887284999",
+    "subject": "06 Farmakoloji",
+    "topic": "01. Farmakokinetik (Absorpsiyon, Dağılım, Metabolizma ve Eliminasyon)",
+    "question": "Üreterlerin sigmoide anastome edildiği durumlarda (üreterosigmoidostomi), kolon mukozasından klor emilip bikarbonat salgılanması sonucu [Asidoz Tipi] metabolik asidoz gelişir.",
+    "answer": "Üreterlerin sigmoide anastome edildiği durumlarda (üreterosigmoidostomi), kolon mukozasından klor emilip bikarbonat salgılanması sonucu hiperkloremik normal anyon açıklı metabolik asidoz gelişir."
+  },
+  {
+    "id": "1793886787197",
+    "subject": "07 Dahiliye",
+    "topic": "01. SFT, Astım, KOAH, Bronşiektazi ve Solunum Enfeksiyonları",
+    "question": "Kırım-Kongo Kanamalı Ateşi (KKKA) vakalarında temaslılara yönelik standart bir [İlaç uygulaması] protokolü bulunmamaktadır.",
+    "answer": "Kırım-Kongo Kanamalı Ateşi (KKKA) vakalarında temaslılara yönelik standart bir kemoprofilaksi protokolü bulunmamaktadır."
+  },
+  {
+    "id": "1793886787208",
+    "subject": "07 Dahiliye",
+    "topic": "01. Özofagus, Mide, Peptik Ülser, GİS Kanama, Malabsorpsiyon ve İBH",
+    "question": "Kutanöz leishmaniazis tanısında, lezyon kenarından alınan örneğin [Laboratuvar yöntemi]ne ekilmesi ile etkenin promastigot formunun üretilmesi sağlanır.",
+    "answer": "Kutanöz leishmaniazis tanısında, lezyon kenarından alınan örneğin NNN besiyerine ekilmesi ile etkenin promastigot formunun üretilmesi sağlanır."
+  },
+  {
+    "id": "1793886787213",
+    "subject": "07 Dahiliye",
+    "topic": "02. Pulmoner Emboli, ARDS, İnterstisyel Akciğer, Plevra ve Akciğer Kanseri",
+    "question": "Genç-orta yaş kadın hastada nefes darlığı, ciltte morumsu lezyonlar ve hiperkalsemi varlığında, sistemik tutulumu değerlendirmek için ilk yapılması gereken tetkik [Görüntüleme yöntemi]dir.",
+    "answer": "Genç-orta yaş kadın hastada nefes darlığı, ciltte morumsu lezyonlar ve hiperkalsemi varlığında, sistemik tutulumu değerlendirmek için ilk yapılması gereken tetkik akciğer radyografisidir."
+  },
+  {
+    "id": "1793886787319",
+    "subject": "08 Pediatri",
+    "topic": "02. Hipotonik Bebek, Nöromüsküler Hastalıklar (SMA, Duchenne), Menenjit ve Çocuk Acil",
+    "question": "Çocuk istismarında (Sarsılmış Bebek Sendromu) subdural hematom ve retinal hemorajiye eşlik eden, prognozu belirleyen en ağır beyin hasarı bulgusu [Patolojik Durum]dır.",
+    "answer": "Çocuk istismarında (Sarsılmış Bebek Sendromu) subdural hematom ve retinal hemorajiye eşlik eden, prognozu belirleyen en ağır beyin hasarı bulgusu diffüz aksonal hasardır."
+  },
+  {
+    "id": "1793886787345",
+    "subject": "08 Pediatri",
+    "topic": "01. Yenidoğan Muayenesi, Doğum Travmaları ve Yenidoğan Solunum Hastalıkları",
+    "question": "Sarsılmış bebek sendromunda göz dibi muayenesinde saptanan [Klinik tanı / Belirteç / Tedavi], genellikle bilateraldir ve vitreus içine kanama ile birlikte olabilir.",
+    "answer": "Sarsılmış bebek sendromunda göz dibi muayenesinde saptanan retinal hemoraji, genellikle bilateraldir ve vitreus içine kanama ile birlikte olabilir."
+  },
+  {
+    "id": "1793886787443",
+    "subject": "08 Pediatri",
+    "topic": "01. Pediatrik Anemiler, Kemik İliği Yetmezlikleri ve Kanama Diyatezleri",
+    "question": "İzole trombositopeni saptanan asemptomatik bir hastada, EDTA'ya bağlı kümelenmeyi dışlamak için yapılması gereken ilk tetkik [Tanısal yöntem] incelemesidir.",
+    "answer": "İzole trombositopeni saptanan asemptomatik bir hastada, EDTA'ya bağlı kümelenmeyi dışlamak için yapılması gereken ilk tetkik periferik yayma incelemesidir."
+  },
+  {
+    "id": "1793886787225",
+    "subject": "09 Genel Cerrahi",
+    "topic": "01. Benign Meme Hastalıkları, Semptomlar ve BI-RADS",
+    "question": "Pulmoner emboli şüphesi olan hastalarda tanıda duyarlılığı en yüksek olan görüntüleme yöntemi [Görüntüleme yöntemi]dir.",
+    "answer": "Pulmoner emboli şüphesi olan hastalarda tanıda duyarlılığı en yüksek olan görüntüleme yöntemi bilgisayarlı tomografi anjiyografidir."
+  },
+  {
+    "id": "1793886787236",
+    "subject": "09 Genel Cerrahi",
+    "topic": "02. Meme Kanseri, Evreleme ve Cerrahi Tedavisi",
+    "question": "Stabil anjina pektoris kliniği sergileyen ve son günlerde istirahat anjinası gelişen anstabil anjina tanılı hastada [İlaç grubu] tedavisi kontrendikedir.",
+    "answer": "Stabil anjina pektoris kliniği sergileyen ve son günlerde istirahat anjinası gelişen anstabil anjina tanılı hastada trombolitik tedavisi kontrendikedir."
+  },
+  {
+    "id": "1793886787264",
+    "subject": "09 Genel Cerrahi",
+    "topic": "03. Pankreas ve Dalak Cerrahisi",
+    "question": "Nekrolitik migratuar eritem, diyabet ve kilo kaybı triadı [Tümör] tanısını akla getirmelidir.",
+    "answer": "Nekrolitik migratuar eritem, diyabet ve kilo kaybı triadı glukagonoma tanısını akla getirmelidir."
+  },
+  {
+    "id": "1793887284932",
+    "subject": "10 Kadin Dogum",
+    "topic": "01. Pelvik Anatomi, Müllerian Anomaliler ve Cinsel Gelişim Bozuklukları",
+    "question": "Obturator herniler anatomik komşulukları ve sigmoid kolonun koruyucu rolü nedeniyle sıklıkla [Vücut Tarafı] pelvik bölgede gözlenir.",
+    "answer": "Obturator herniler anatomik komşulukları ve sigmoid kolonun koruyucu rolü nedeniyle sıklıkla sağ pelvik bölgede gözlenir."
+  },
+  {
+    "id": "1793887574764",
+    "subject": "10 Kadin Dogum",
+    "topic": "01. Gebelik Fizyolojisi, Prenatal Tarama, Fetal İzlem ve Doğum Eylemi",
+    "question": "Fetal renal pelvis dilatasyonunun değerlendirilmesinde standart yöntem, transvers planda ölçülen [Ölçüm tekniği] değerinin kullanılmasıdır.",
+    "answer": "Fetal renal pelvis dilatasyonunun değerlendirilmesinde standart yöntem, transvers planda ölçülen anteroposterior çap değerinin kullanılmasıdır."
+  },
+  {
+    "id": "1793887574769",
+    "subject": "10 Kadin Dogum",
+    "topic": "01. Gebelik Fizyolojisi, Prenatal Tarama, Fetal İzlem ve Doğum Eylemi",
+    "question": "Yüz gelişinde fetüsün çenesi (mentum) maternal pelvisin sağ anterior kadranına bakıyorsa bu pozisyon [Pozisyon] olarak tanımlanır.",
+    "answer": "Yüz gelişinde fetüsün çenesi (mentum) maternal pelvisin sağ anterior kadranına bakıyorsa bu pozisyon sağ mento anterior olarak tanımlanır."
+  }
+]
